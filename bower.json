@@ -1,0 +1,17 @@
+{
+  "name": "ganiyari-core",
+  "version": "0.0.1",
+  "main": [
+    "aggregateDefinition.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1"
+  },
+  "devDependencies": {
+  }
+}
